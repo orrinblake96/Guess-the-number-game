@@ -38,11 +38,9 @@ public class NumberWizard : MonoBehaviour {
 	void Update () {
 	
 		if(Input.GetKeyDown(KeyCode.UpArrow)){
-			//print ("Up Arrow pressed");
 			min = guess;
 			NextGuess();
 		}else if(Input.GetKeyDown(KeyCode.DownArrow)){
-			print ("Down Arrow pressed");
 			max = guess;
 			NextGuess();
 		}else if(Input.GetKeyDown(KeyCode.Return)){
