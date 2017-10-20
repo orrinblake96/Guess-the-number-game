@@ -4,4 +4,5 @@ This is a simple text based game where the player chooses a number in their head
 
 Tecnologies used:
    Unity,
-   MonoDevelop-Unity
+   MonoDevelop-Unity,
+   Udemy online coure (Complete c# Unity Development)
